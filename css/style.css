@@ -38,11 +38,14 @@ body {
 .single-product {
   padding: 10px;
   transition: 0.6s;
+  background-color: cornsilk;
+  margin: 10px;
 }
 .single-product:hover {
   box-shadow: 4px 4px 7px gray;
   border-radius: 10px;
   border: 1px solid cyan;
+  background-color: rgb(243, 239, 239);
 }
 .product-image {
   width: 150px;
